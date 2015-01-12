@@ -1,0 +1,17 @@
+body
+{
+	background-color: #84978F;
+	padding: 0px;
+	text-align: center;
+}
+#wrap
+{
+	margin: 30px auto;
+	text-align: center;
+	color: #527578;
+	background-color: #454545
+}
+#header
+{
+	font-size:48px;
+}
